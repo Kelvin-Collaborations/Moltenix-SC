@@ -20,3 +20,5 @@ resources for unique or preconfigured components of the kelvin default operating
     - integrating waydroid tightly into the system with a shared appstore and permissions manager for handling both flatpak and android apps
     - recompiling nixpkgs and flathub for multiple architectures
     - configuring electron so that all webapps use the same instance of electron, reducing lag
+    - a configurable system of creating and managing app collections
+    - configure eudev rules for peripheral devices allowing them to open applications or interfaces accompanying the peripheral
