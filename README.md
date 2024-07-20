@@ -1,4 +1,4 @@
-# Kelvin-OS
+# Molten-SC
 resources for unique or preconfigured components of the kelvin default operating system
 
 ## To Do:
@@ -12,7 +12,7 @@ resources for unique or preconfigured components of the kelvin default operating
     - configure the theme integration for libadwaita and kirigami
     - make an application for graphically setting themes
     - make an introduction app and startup script for new users, to configure their nix.conf and intall flatpak per user, aswell as provide a system introduction
-    - decide on naming and branding for the system and apply these
+    - decide onbranding for the system
 
   ### Non Essential:
 
