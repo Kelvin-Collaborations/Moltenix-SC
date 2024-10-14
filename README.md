@@ -1,4 +1,4 @@
-# Molten-SC
+# Moltenix-SC
 resources for unique or preconfigured components of the kelvin default operating system
 
 ## To Do:
@@ -18,9 +18,10 @@ resources for unique or preconfigured components of the kelvin default operating
 
     - designing our own user interface for adaptive design
     - making a graphical app for adding per user nix applications, and integrate this into the app store
-    - add settings and configuration for sharing local applications between machines and external drives, so updates and apps can be installed and updated offline
     - integrating waydroid tightly into the system with a shared appstore and permissions manager for handling both flatpak and android apps
     - recompiling nixpkgs and flathub for multiple architectures
-    - configuring web applications and the app store so that all webapps use the same browser, reducing lag
+    - configuring web applications and the app store so that all webapps use the same browser instance, reducing lag
     - a configurable system of creating and managing app collections with nix files
     - configure eudev rules for peripheral devices allowing them to open applications or interfaces accompanying the peripheral
+    - make a more tightly integrated drawterm program to interface with 9p grids from moltenix
+    - implement the manifest package manager
