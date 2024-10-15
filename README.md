@@ -1,5 +1,5 @@
 # Moltenix-SC
-resources for unique or preconfigured components of the kelvin default operating system
+resources for unique or preconfigured components of the kelvin default LINUX operating system for software compatability 
 
 ## To Do:
 
